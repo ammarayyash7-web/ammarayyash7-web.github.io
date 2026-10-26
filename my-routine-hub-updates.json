@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.5.1",
-    "build": 66,
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.1/my-routine-hub-android-1.5.1.apk"
+    "version": "1.5.2",
+    "build": 67,
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.2/my-routine-hub-android-1.5.2.apk"
   },
   "windows": {
-    "version": "1.5.1",
-    "build": 66,
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.1/my-routine-hub-windows-1.5.1.zip"
+    "version": "1.5.2",
+    "build": 67,
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.2/my-routine-hub-windows-1.5.2.zip"
   }
 }
