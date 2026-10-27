@@ -1,13 +1,40 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.5.2",
-    "build": 67,
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.2/my-routine-hub-android-1.5.2.apk"
+    "scope": "my-routine-hub",
+    "platform": "android",
+    "applicationId": "com.ammarayyash.myroutinehub",
+    "version": "1.5.6",
+    "build": 71,
+    "bytes": 91844489,
+    "sha256": "c6adb067740a80e7989fa7adf7cd3f4041aa4e6f861880af5277d85f0bb397ee",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.6/my-routine-hub-android-1.5.6.apk",
+    "certificateSha256": "8ba4a0f401c187a4c6b4c9b582f806451c9ed9132511a25b9ca628bf796fdd6e",
+    "signature": "H9DApORyv7lSAMTsOZ2qO9jjfx49SKPSWFOJrIrvr7ylB0ZYWgRqlqvY14TulmZ/FOiXc7mt3R06R/DSVSOGDw=="
+  },
+  "originalAndroid": {
+    "scope": "my-routine-hub",
+    "platform": "android",
+    "applicationId": "com.example.my_routine_hub",
+    "version": "1.5.6",
+    "build": 71,
+    "bytes": 91844485,
+    "sha256": "a4bbe8cf6e90484257940c6c6d9829fe5f5087a1ba8ec1f6958838e658d020f5",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.6/my-routine-hub-original-android-1.5.6.apk",
+    "certificateSha256": "e4d4515befb31d526137b76cae82d7637a43d80170f31b18aed6559bfaf21bf4",
+    "signature": "hD5OeJEitbRQFx/wDGotO89XiG94qE2BNv3GPotBISQmaKKwMps4omFmE9rnd/dA3Va8AuSUApNWN5g8hUw3Bw=="
   },
   "windows": {
-    "version": "1.5.3",
-    "build": 68,
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.3/my-routine-hub-windows-1.5.3.zip"
+    "scope": "my-routine-hub",
+    "platform": "windows",
+    "applicationId": "my_routine_hub",
+    "version": "1.5.6",
+    "build": 71,
+    "bytes": 25471361,
+    "sha256": "7eebf3aab6276927be49f3c22aef171b7bbaa888ac470740725667083e1d691c",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.6/my-routine-hub-windows-1.5.6.zip",
+    "folder": "MyRoutineHubWindows",
+    "executable": "my_routine_hub.exe",
+    "signature": "4uQYZWxnf/IdNX/uf/l8PDptr4O/kw8igr92FdpGWsQ/tkuwEUviXi3TxHkmj4qkJVQQfPODGpGenTSsDPBbCA=="
   }
 }

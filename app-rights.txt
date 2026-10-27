@@ -1,0 +1,33 @@
+APP COPYRIGHT AND USE NOTICE
+Wealth Manager and My Routine Hub
+
+Copyright (c) 2026 Ammar Ayyash. All rights reserved in the original proprietary
+material in which Ammar Ayyash holds rights, to the extent protected by law.
+
+1. Using the apps
+You may download, install and use unmodified official releases free of charge,
+and keep personal backup copies. You may share links to the official download
+page. This permission concerns using the apps; it does not grant ownership of
+their proprietary code, text, artwork or branding.
+
+2. Reserved rights
+Except where applicable law or a relevant third-party licence permits otherwise,
+prior written permission from the rights holder is required to copy or adapt
+proprietary source code, text or artwork; redistribute or repackage installers;
+rebrand the apps; or sell or sublicense the apps or their proprietary components.
+These restrictions concern the software, not the records you enter or export.
+
+3. Third-party materials
+Libraries, fonts, icons and other third-party materials remain owned by their
+respective rights holders and governed by their own licences. Those licences
+and required notices remain effective and take precedence for those components.
+See the in-app open-source licence credits. No ownership of third-party
+materials, unprotectable ideas or general app functionality is claimed here.
+
+4. Your records
+No ownership of users' personal records or user-created content is claimed.
+
+5. Scope
+This notice does not create copyright where the law does not provide it, limit
+mandatory statutory rights, or assert that the app names or logos are registered
+trademarks. Permission beyond the grant above must come from Ammar Ayyash.
