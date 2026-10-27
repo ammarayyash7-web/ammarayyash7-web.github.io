@@ -4,37 +4,37 @@
     "scope": "wealth-manager",
     "platform": "android",
     "applicationId": "com.ammarayyash.wealthmanager",
-    "version": "1.0.26",
-    "build": 27,
-    "bytes": 87233952,
-    "sha256": "6dac86a9d6fd3fb3aa72369b6dea0881f56f698408fba9ab1255775bc6ba2ccf",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.26/wealth-manager-android-1.0.26.apk",
+    "version": "1.0.27",
+    "build": 28,
+    "bytes": 87315872,
+    "sha256": "dd1349d8089705eca12ebd95cde2e913b1ba6b073c5961165e3a093a3104529b",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.27/wealth-manager-android-1.0.27.apk",
     "certificateSha256": "8ba4a0f401c187a4c6b4c9b582f806451c9ed9132511a25b9ca628bf796fdd6e",
-    "signature": "J56EfsCtqx0e3jZ2tXPuoMpF/asSiBWaehfUpFn2niGX8006K3lY/mBz+Mko2c53UM8ZFeNQNiDLHour6O4BAQ=="
+    "signature": "bB9IBTNrVIOvkDW/EVdneYSiqpBjcPA8VGGwagy6SiC9TDijZZa9t2t+RxmLkR63v1KP/tiL0Tmd77eiBsLwAA=="
   },
   "originalAndroid": {
     "scope": "wealth-manager",
     "platform": "android",
     "applicationId": "com.example.wealth_manager",
-    "version": "1.0.26",
-    "build": 27,
-    "bytes": 87233952,
-    "sha256": "d168a3b5a08b8af3a6254a61dae558f1929cd538c85b5ea103190d34469759d4",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.26/wealth-manager-original-android-1.0.26.apk",
+    "version": "1.0.27",
+    "build": 28,
+    "bytes": 87315872,
+    "sha256": "d546a3de49d1c24c55c846068f3f94726ddb2a45f8f5b3d5293c55975e545517",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.27/wealth-manager-original-android-1.0.27.apk",
     "certificateSha256": "e4d4515befb31d526137b76cae82d7637a43d80170f31b18aed6559bfaf21bf4",
-    "signature": "rV7u3iCW78hkPHArlZIKoDg9ylUpAGegDGrDpMRGpALaYlXPqPIfZQxRmT/3ysj/AtwFLerBbokFmwyeumgLBg=="
+    "signature": "jq6ixorZ9AdmoDoiokR1bUrSikxWc7j0eT3Ve6l7bB4ebfFhh2vmxJVT9oRKGYQoNJVOtUEcopTtFueS+OAiCA=="
   },
   "windows": {
     "scope": "wealth-manager",
     "platform": "windows",
     "applicationId": "wealth_manager",
-    "version": "1.0.26",
-    "build": 27,
-    "bytes": 22239484,
-    "sha256": "d08064ffcd849b41410d3b5f1e3773852e361da3dbf61dbf9a14c492291dc8c1",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.26/wealth-manager-windows-1.0.26.zip",
+    "version": "1.0.27",
+    "build": 28,
+    "bytes": 22312035,
+    "sha256": "1c94bf8565da5b8e10c02d1508c738ee98d1cbe191c2d29b22596f969e848ab8",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/wealth-manager-v1.0.27/wealth-manager-windows-1.0.27.zip",
     "folder": "WealthManagerWindows",
     "executable": "wealth_manager.exe",
-    "signature": "/uuNBFjAlaFv5yD31Soc/GrBB/ELjSwFe1GNE3XCOC4wjXJ0BBjlAPl55rsPAIg0Ai5EYt4Ta3qixwiwJe8+BA=="
+    "signature": "llnFMQKFsuU92bNAOjNl6rnauUDhjo3ZvxvCDSv7LmWb1McXVKyhJog30zjSk50UsqVI8UzlSFIeftlHDNfoDA=="
   }
 }
