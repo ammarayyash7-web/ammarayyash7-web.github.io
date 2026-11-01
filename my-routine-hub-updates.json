@@ -4,37 +4,37 @@
     "scope": "my-routine-hub",
     "platform": "android",
     "applicationId": "com.ammarayyash.myroutinehub",
-    "version": "1.5.9",
-    "build": 74,
-    "bytes": 92057809,
-    "sha256": "b8eab363ee881521d2eb2e2124e7c2545f2efaf236800f8ab2ab9dc053e8f2af",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.9/my-routine-hub-android-1.5.9.apk",
+    "version": "1.5.10",
+    "build": 75,
+    "bytes": 91992573,
+    "sha256": "f5d647cc3267c5f548841a34c3e5d94e7ff93328308fb5ddd8538c68886500e8",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.10/my-routine-hub-android-1.5.10.apk",
     "certificateSha256": "8ba4a0f401c187a4c6b4c9b582f806451c9ed9132511a25b9ca628bf796fdd6e",
-    "signature": "igniT0dcUSZnK1OyBe6Fm8EUyIYgGBa8ue7Y4GSXTi6uSEgHsP961Upvk76lABSFDcWlAqLJf6DDUEb4HgroBw=="
+    "signature": "diuPKs1fjeaa5T5rMK7S/UrYszkylvbPinzncVkWpQvay7c69mPxpO0itO0Ln2tyahr2XK8WBPCoVOGfsv2mDA=="
   },
   "originalAndroid": {
     "scope": "my-routine-hub",
     "platform": "android",
     "applicationId": "com.example.my_routine_hub",
-    "version": "1.5.9",
-    "build": 74,
-    "bytes": 92074193,
-    "sha256": "9685853079ff81ab06090be4842d76f016fdb27da8173fe8ae8abcd0d31e3c04",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.9/my-routine-hub-original-android-1.5.9.apk",
+    "version": "1.5.10",
+    "build": 75,
+    "bytes": 92058109,
+    "sha256": "9412b305b7a60718a25ec4fd69dd3c2d59d89b9e9c307a2ab8d4dcc724c78e9b",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.10/my-routine-hub-original-android-1.5.10.apk",
     "certificateSha256": "e4d4515befb31d526137b76cae82d7637a43d80170f31b18aed6559bfaf21bf4",
-    "signature": "LdfhOWSn3Q97UVxMFxGWrbBlsRrgkU0sApYS9/+JkdlkXO2eTRLGG8UmZyrQ3opK+pZSmoe02/Xo8byPrhF4Dg=="
+    "signature": "+yUk7JrNlGcbvToYbGWYtM2dmicl6zVA0+g56GZkAy9igUQrGV9dX/DGjMJLRePsrIvzdw9rIwXsmj1z1740Bg=="
   },
   "windows": {
     "scope": "my-routine-hub",
     "platform": "windows",
     "applicationId": "my_routine_hub",
-    "version": "1.5.9",
-    "build": 74,
-    "bytes": 25534360,
-    "sha256": "c7b307be7d9c5d65465d6ce116ed659c77e8221822e17f26fd11ab3b678db3ed",
-    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.9/my-routine-hub-windows-1.5.9.zip",
+    "version": "1.5.10",
+    "build": 75,
+    "bytes": 25536167,
+    "sha256": "4fe28e9dfa55f26cfc9fcf10894b79eeba87c1efa0c2ffa70d8326608735b3e3",
+    "url": "https://github.com/ammarayyash7-web/ammarayyash7-web.github.io/releases/download/my-routine-hub-v1.5.10/my-routine-hub-windows-1.5.10.zip",
     "folder": "MyRoutineHubWindows",
     "executable": "my_routine_hub.exe",
-    "signature": "+2RdIzo1kLQXIzpbQNYOIp8GC8eJGZXntp+FztrleIN3k0saD8f2sZgMGtfOQpCinulMTxX+4gjCrAB8/UaUAA=="
+    "signature": "xjSvfu+e6rxSTXg0iIeFkycDFurjDp3g4c5mNabE3dnBdfRlrU163ufxw6E0I8BqhnCkVHSIbZd1Oi4aI7vwDA=="
   }
 }
